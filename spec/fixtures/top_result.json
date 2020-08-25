@@ -1,0 +1,523 @@
+
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "GTmwCi6QlhuxvDvpsovV9MZH75E",
+    "nextPageToken": "CA8QAA",
+    "regionCode": "CA",
+    "pageInfo": {
+      "totalResults": 11178,
+      "resultsPerPage": 15
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hFLnWurvq8BnBSMwH-Gv6UKfUkU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Rl03afAqeFQ"
+        },
+        "snippet": {
+          "publishedAt": "2011-11-23T23:56:07Z",
+          "channelId": "UCCsdyU4GiEx4ZbbfUGFxAkg",
+          "title": "POLIÇA - &quot;Lay Your Cards Out&quot; (Official Music Video)",
+          "description": "\"Lay Your Cards Out\" (feat. Mike Noyce of Bon Iver) off of POLIÇA's debut record, 'Give You The Ghost' out via Totally Gross National Product. Directed by: Chris ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rl03afAqeFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rl03afAqeFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rl03afAqeFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "POLIÇA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-11-23T23:56:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YNUs-xp1wnwC7VxTuSNh9f0mVH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3NcrCY-ztLk"
+        },
+        "snippet": {
+          "publishedAt": "2011-12-09T16:52:54Z",
+          "channelId": "UCCsdyU4GiEx4ZbbfUGFxAkg",
+          "title": "POLIÇA - &quot;Lay Your Cards Out&quot; (Official Audio)",
+          "description": "\"Lay Your Cards Out\" (feat. Mike Noyce of Bon Iver) off of POLIÇA's debut record, 'Give You The Ghost' out via Totally Gross National Product. STREAM: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3NcrCY-ztLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3NcrCY-ztLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3NcrCY-ztLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "POLIÇA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-12-09T16:52:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WcP6dSoG6lbvSH-YoCQFa_0wUjI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZG4c-ymbhv8"
+        },
+        "snippet": {
+          "publishedAt": "2012-07-04T19:20:50Z",
+          "channelId": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+          "title": "Poliça - Lay Your Cards Out in session for Radio 1",
+          "description": "Poliça in session at Maida Vale for Huw Stephens - http://www.bbc.co.uk/programmes/b0081dq5.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZG4c-ymbhv8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZG4c-ymbhv8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZG4c-ymbhv8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-07-04T19:20:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z3_h7rIMizRhpxfUspPoQR-wpfw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gr2u_G9VVtk"
+        },
+        "snippet": {
+          "publishedAt": "2014-01-31T12:46:50Z",
+          "channelId": "UCEAgugIw6pHGg7MRlkOU1Dw",
+          "title": "Studio Brussel: Poliça - Lay your cards out (Live)",
+          "description": "Poliça playing 'Lay your cards out' live at Studio Brussel (Belgium) on Tuesday January 28, 2014. http://www.stubru.be http://www.facebook.com/studiobrussel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gr2u_G9VVtk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gr2u_G9VVtk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gr2u_G9VVtk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Studio Brussel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-01-31T12:46:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j0bxMrW8PsWg4W-3ufUK8JOwzhY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0mjyR10NZAs"
+        },
+        "snippet": {
+          "publishedAt": "2011-10-27T05:13:27Z",
+          "channelId": "UCrfzKifSAzAy-eIDxGunl9A",
+          "title": "Polica - Lay Your Cards Out (Fader Fort by FIAT 2011)",
+          "description": "Music video by Polica performing Lay Your Cards Out (Fader Fort by FIAT 2011).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0mjyR10NZAs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0mjyR10NZAs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0mjyR10NZAs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FaderFortbyFiatVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-10-27T05:13:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jBU5ogcPKu6f7jnXi8XUy7ylflk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-ST9hDQzh-s"
+        },
+        "snippet": {
+          "publishedAt": "2012-05-21T20:29:41Z",
+          "channelId": "UCGGExkWMd5AHJ12XM8LNgTA",
+          "title": "Poliça - &quot;Lay Your Cards Out&quot; (Live at WFUV)",
+          "description": "http://thealternateside.org. Poliça performs \"Lay Your Cards Out\" live in Studio A. Recorded 5/15/2012. Host: Alisa Ali Engineer: Daniel Hodd Cameras: Claire ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-ST9hDQzh-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-ST9hDQzh-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-ST9hDQzh-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "thealternateside907",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-05-21T20:29:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RcmiGx0HP0R2IWvDD6vyypKwHq0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0M3vy6HGmgY"
+        },
+        "snippet": {
+          "publishedAt": "2012-06-11T17:06:15Z",
+          "channelId": "UCRCOCvfOkoqneyQCbNOUPwg",
+          "title": "Poliça &quot;Lay Your Cards Out&quot; - Brooklyn Bound (Episode 9 - Part 3)",
+          "description": "Poliça plays \"Lay Your Cards Out\" live at Converse Rubber Tracks http://www.thefader.com/2012/06/11/brooklyn-bound-polica-live-at-converse-rubber-tracks/ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0M3vy6HGmgY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0M3vy6HGmgY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0M3vy6HGmgY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The FADER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-06-11T17:06:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "itpWjRgkyrAdjIzttEdtlmJuOe4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OrQZ7nDQ8XE"
+        },
+        "snippet": {
+          "publishedAt": "2013-03-13T14:10:12Z",
+          "channelId": "UCVFSZODIxcpEexws59dcPQA",
+          "title": "Poliça - Lay Your Cards Out (Alluxe Remix)",
+          "description": "Sound : https://soundcloud.com/polica/lay-your-cards-out-alluxe Photo : http://www.flickr.com/photos/fastarmaan/8525734670/in/pool-california/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OrQZ7nDQ8XE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OrQZ7nDQ8XE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OrQZ7nDQ8XE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dimitri Sourie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-03-13T14:10:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GpBUdeCyV1nQnsNOJbwtOU9kf5U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tyqyrw9UdGM"
+        },
+        "snippet": {
+          "publishedAt": "2014-01-20T10:42:11Z",
+          "channelId": "UCiTFwf4VFGMyfg3cQlXP9JQ",
+          "title": "Poliça, &#39;Lay Your Cards Out&#39; - NME Song Stories",
+          "description": "Subscribe to our channel to watch more interviews: http://bit.ly/I0DC4e Channy Leaneagh from Poliça tells the story 'Lay Your Cards Out', how she used ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tyqyrw9UdGM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tyqyrw9UdGM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tyqyrw9UdGM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NME",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-01-20T10:42:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kI2jo0aBCwZD3wBmpFQ6rxGrva4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2UfNHVRY91w"
+        },
+        "snippet": {
+          "publishedAt": "2013-09-05T14:23:01Z",
+          "channelId": "UCGWWbTko-Xx7QorJXZlk6pw",
+          "title": "Polica - Lay Your Cards Out",
+          "description": "I Hear You | We hear, we hunt, you listen. » Youtube: http://www.youtube.com/user/ihearyougc » Facebook: https://www.facebook.com/ihearyougc /// No ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2UfNHVRY91w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2UfNHVRY91w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2UfNHVRY91w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "I Hear You",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-09-05T14:23:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xMuPEOia4Oy4y7MdOgBMownGmrw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LKXJjpmNMik"
+        },
+        "snippet": {
+          "publishedAt": "2013-04-20T22:59:11Z",
+          "channelId": "UCIv65kl3d_wTbFDNfv3YMJw",
+          "title": "Polica - Lay Your Cards Out",
+          "description": "PHΛNTOM Subscribe: http://bit.ly/13cSMg2 Like: https://www.facebook.com/phvntom Λ Email us at PHVNTOMSOUND@gmail.com Λ Subscribe to stay in tune ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LKXJjpmNMik/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LKXJjpmNMik/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LKXJjpmNMik/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PHVNTOM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-04-20T22:59:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IrjQ5TTqROgLAkiqkDp2cf36HJw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "De8IbPu0JII"
+        },
+        "snippet": {
+          "publishedAt": "2012-02-27T21:17:08Z",
+          "channelId": "UCRuaB4qMz-Rrrm-9XCPxKHw",
+          "title": "Polica - Lay Your Cards Out (Live Edit)",
+          "description": "Week 3: Live Edit on Maschine Mikro of Polica's \"Lay Your Cards Out\" I don't own the rights to this song, but I do own the right to this video. Thanks!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/De8IbPu0JII/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/De8IbPu0JII/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/De8IbPu0JII/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dj Divalove",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-02-27T21:17:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YwnvVKyRxRWO_G9jCS39hgC-VjY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7LJA8qniy0c"
+        },
+        "snippet": {
+          "publishedAt": "2011-11-08T07:59:50Z",
+          "channelId": "UCy9Q-TzaXDdjd4ZmeL1kVCg",
+          "title": "POLICA - Lay Your Cards Out (Turf Club 11-07-2011)",
+          "description": "The band's site: http://www.thisispolica.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7LJA8qniy0c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7LJA8qniy0c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7LJA8qniy0c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheMSPdude",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-11-08T07:59:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "H2_nJI8R1IJZ_FBQrnmTEsD6C_I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oihGZzdEyM0"
+        },
+        "snippet": {
+          "publishedAt": "2012-05-14T19:15:28Z",
+          "channelId": "UCD6mHB2GF2zPKxs7cdWZf9g",
+          "title": "POLIÇA Lay Your Cards Out MAXWELL&#39;S Hoboken NJ MAY 13 2012",
+          "description": "POLIÇA performing \"Lay Your Cards Out\" at Maxwell's in Hoboken, NJ 05.13.12.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oihGZzdEyM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oihGZzdEyM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oihGZzdEyM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "loopyvids",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-05-14T19:15:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vqwoY-YomE3h17WdKjot3RtZr14",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "e7l1w1wXFcA"
+        },
+        "snippet": {
+          "publishedAt": "2012-06-21T17:32:12Z",
+          "channelId": "UCzTbc0PDH1J7UdJiaOvchEA",
+          "title": "Poliça &#39;Lay Your Cards Out&#39; live // BeatCast Live Series with Drowned In Sound",
+          "description": "Poliça 'Lay Your Cards Out' live at CAMP London 7th June 2012 Filmed, edited and produced by http://beatcast.tv & http://drownedinsound.com Location: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e7l1w1wXFcA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e7l1w1wXFcA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e7l1w1wXFcA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "beatcasttv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-06-21T17:32:12Z"
+        }
+      }
+    ]
+  }

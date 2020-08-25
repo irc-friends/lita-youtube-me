@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JFfMEusIr_QBHVshYkCJ2iA5NM8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "7Csv5dlcX5uPzNLTy4Wbo-CNzXs",
+        "id": "nG7RiygTwR4",
+        "snippet": {
+          "publishedAt": "2011-09-12T14:10:10Z",
+          "channelId": "UC42aICDqye4s07ISmCCyy1g",
+          "title": "10 minutes of DJ Mbenga saying Tacos",
+          "description": "The 10 minutes best spent of your life xD",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nG7RiygTwR4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nG7RiygTwR4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nG7RiygTwR4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nG7RiygTwR4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nG7RiygTwR4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RickFreeloader",
+          "tags": [
+            "DJ",
+            "Mbenga",
+            "Tacos",
+            "10",
+            "Minutes",
+            "Mavericks",
+            "Warriors",
+            "Lakers",
+            "Hornets",
+            "Kobe",
+            "Bryant",
+            "LeBron",
+            "James",
+            "Dwayne",
+            "Wade",
+            "Derrick",
+            "Rose"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "10 minutes of DJ Mbenga saying Tacos",
+            "description": "The 10 minutes best spent of your life xD"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39363",
+          "likeCount": "153",
+          "dislikeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "29"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }

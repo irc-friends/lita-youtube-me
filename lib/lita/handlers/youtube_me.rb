@@ -1,11 +1,12 @@
 require "date"
 require "uri"
 require "cgi"
+require "uri"
 require "iso8601"
 
 module Lita
   module Handlers
-    class YoutubeMe < Handler
+    class YoutubeMe < Handler      
       API_URL = "https://www.googleapis.com/youtube/v3"
 
       config :api_key, type: String, required: true
@@ -18,10 +19,10 @@ module Lita
       })
       # Detect YouTube links in non-commands and display video info
       route(/\b(youtube\.com\/watch\S+)\s*/i, :display_info, command: false)
-      route(/\b(youtu\.be\/\S+)\s*/i, :display_info, command: false)
+      route(/\b(youtu\.be\/\S+)\s*/i, :display_info_short, command: false)
 
       def find_video(response)
-        query = response.matches[0][0]
+        query = response.matches[0][0]                        
         http_response = http.get(
           "#{API_URL}/search",
           q: query,
@@ -30,6 +31,7 @@ module Lita
           part: "snippet",
           key: config.api_key
         )
+        
         return if http_response.status != 200
         videos = MultiJson.load(http_response.body)["items"].select { |v| v["id"].key?("videoId") }
         video = config.top_result ? videos.first : videos.sample
@@ -49,6 +51,21 @@ module Lita
       def display_info(response)
         if config.detect_urls
           id = extract_video_id(response.matches[0][0])
+          info_string = info(id)
+          unless info_string.nil?
+            response.reply info_string
+          end
+        end
+      end
+
+      # The video id is found in the last part of the path
+      def extract_video_id_short(url_string)
+        URI(url_string).path.split('/').last
+      end
+
+      def display_info_short(response)
+        if config.detect_urls
+          id = extract_video_id_short(response.matches[0][0])
           info_string = info(id)
           unless info_string.nil?
             response.reply info_string

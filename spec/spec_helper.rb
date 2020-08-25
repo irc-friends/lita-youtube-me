@@ -1,5 +1,7 @@
 require "lita-youtube-me"
 require "lita/rspec"
+require 'webmock/rspec'
+require 'fileutils'
 
 # A compatibility mode is provided for older plugins upgrading from Lita 3. Since this plugin
 # was generated with Lita 4, the compatibility mode should be left disabled.
